@@ -4,8 +4,15 @@ Description goes here.
 
 This section is comprised of the following steps:
 
-1. [Step 1](#1-step-1)
-1. [Step 2](#2-step-2)
+1. [Paso 1](#1-step-1)
+1. [Paso 2](#2-step-2)
+1. [Paso 3](#3-step-3)
+1. [Paso 4](#4-step-4)
+1. [Paso 5](#5-step-5)
+1. [Paso 6](#6-step-6)
+1. [Paso 7](#3-step-7)
+1. [Paso 8](#4-step-8)
+1. [Paso 9](#3-step-9)
 
 ## Paso 1: Hacer login en la consola de IBM Cloud
 
