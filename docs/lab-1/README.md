@@ -17,4 +17,4 @@ Use al siguiente link https://cloud.ibm.com/catalog/services/watson-assistant pa
 
 Una vez dentro selecione la opción Lite como se muestra en la siguiente figura:
 
-(../images/WatsonAssistant.png)
+![Watson](../images/WatsonAssistant.png)
