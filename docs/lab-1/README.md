@@ -9,8 +9,8 @@ This section is comprised of the following steps:
 
 ## 1. Paso 1: Hacer login en la consola de IBM Cloud
 
-Vaya al siguiente  enlace https://cloud.ibm.com/login y registrese con sus credenciales
+Vaya al siguiente enlace https://cloud.ibm.com/login y registrese con sus credenciales.
 
-## 2. Step 2
+## 2. Paso 2: Abra el catálogo de servicios
 
-Things to do in Step 2
+Use al siguiente link https://cloud.ibm.com/catalog/services/watson-assistant para acceder al servicio de Watson Assistant.
