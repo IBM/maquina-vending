@@ -18,3 +18,5 @@ Use al siguiente link https://cloud.ibm.com/catalog/services/watson-assistant pa
 Una vez dentro selecione la opción Lite como se muestra en la siguiente figura:
 
 ![Watson](../images/WatsonAssistant.png)
+
+## 3. Paso 3: Cambie el nombre del servicio a vending-machine
