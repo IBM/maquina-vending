@@ -15,6 +15,6 @@ Vaya al siguiente enlace https://cloud.ibm.com/login y registrese con sus creden
 
 Use al siguiente link https://cloud.ibm.com/catalog/services/watson-assistant para acceder al servicio de Watson Assistant.
 
-Una vez dentro sellecione la opción Lite como se muestra en la siguiente figura:
+Una vez dentro selecione la opción Lite como se muestra en la siguiente figura:
 
-![Cloud Sign up](../images/WatsonAssistant.png)
+(../images/WatsonAssistant.png)
