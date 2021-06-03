@@ -2,17 +2,17 @@
 
 Bienvenidos! En este workshop se muestran las instrucciones necesarias para utilizar IBM Watson Assistant Service en IBM Cloud con el fin de que obtengan su código de acceso para la máquina expendedora.
 
-![Maquina](../images/maquina.png)
+![Maquina](images/maquina.png)
 
 ## Arquitectura
 
 Usamos IBM Watson Assistant y una API externa para obtener el código de acceso para la máquina expendedora, como se muestra en la imagen a continuación.
 
-![Arquitectura](../images/arquitectura.png)
+![Arquitectura](images/arquitectura.png)
 
 Tabla de contenidos:
 * [Tiempo Estimado y nivel](#tiempo)
-* [TObjetivos](#objetivos)
+* [Objetivos](#objetivos)
 * [Agenda](#agenda)
 * [Compatibilidad](#compatibility)
 * [Creditos](#credits)
