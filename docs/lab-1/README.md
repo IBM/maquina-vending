@@ -29,7 +29,7 @@ Una vez dentro selecione la opción Lite como se muestra en la siguiente figura:
 
 ## Paso 4: Pulse crear
 
-![CreateWatson](../images/createWatson.png)
+![CreateWatson](../images/crearWatson.png)
 
 ## Paso 5: Presione Launch Watson Assistant
 
