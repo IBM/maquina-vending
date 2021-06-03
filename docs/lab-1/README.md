@@ -26,15 +26,27 @@ Una vez dentro selecione la opción Lite como se muestra en la siguiente figura:
 
 ## Paso 3: Cambie el nombre del servicio a vending-machine
 
+![NameWatson](../images/nombreWatson.png)
+
 ## Paso 4: Pulse crear
+
+
 
 ## Paso 5: Presione Launch Watson Assistant
 
+
+
 ## Paso 6: Select Assistants
+
+
 
 ## Paso 7: Presione Create assistant
 
+
+
 ## Paso 8: Nombre al Asistente vending-assistant
+
+
 
 ## Paso 9: Presione Create assistant
 
