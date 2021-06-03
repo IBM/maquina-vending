@@ -9,8 +9,7 @@ This section is comprised of the following steps:
 1. [Paso 5](#5-step-5)
 1. [Paso 6](#6-step-6)
 1. [Paso 7](#7-step-7)
-1. [Paso 8](#8step-8)
-1. [Paso 9](#9-step-9)
+
 
 ## Paso 1: Hacer login en la consola de IBM Cloud
 
@@ -41,6 +40,6 @@ Una vez dentro selecione la opción Lite como se muestra en la siguiente figura:
 
 ![CrearAsistente](../crearAsistente.png)
 
-## Paso 7: Nombre al Asistente vending-assistant y presione también Create assistant
+## Paso 7: Nombre al Asistente vending-assistant y presione Create assistant
 
 ![NombreAsistente](../nombreAsistente.png)
