@@ -33,13 +33,13 @@ Una vez dentro selecione la opción Lite como se muestra en la siguiente figura:
 
 ## Paso 5: Presione Launch Watson Assistant
 
-![LaunchWatson](../imageslaunchWatson.png)
+![LaunchWatson](../images/launchWatson.png)
 
 
 ## Paso 6: Acceda a asistentes y presione Create assistant
 
-![CrearAsistente](../crearAsistente.png)
+![CrearAsistente](../images/crearAsistente.png)
 
 ## Paso 7: Nombre al Asistente vending-assistant y presione Create assistant
 
-![NombreAsistente](../nombreAsistente.png)
+![NombreAsistente](../images/nombreAsistente.png)
