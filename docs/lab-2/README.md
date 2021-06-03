@@ -8,7 +8,6 @@ This section is comprised of the following steps:
 1. [Paso 4](#4-step-4)
 1. [Paso 5](#5-step-5)
 1. [Paso 6](#6-step-6)
-1. [Paso 7](#7-step-7)
 
 
 ## Paso 1: Seleccione Add and action or dialog skill
@@ -28,7 +27,6 @@ This section is comprised of the following steps:
 
 
 ## Paso 5: Arrastre y suelte el archivo skill-developer-vending-machine-actual-version.json para la importación
-
 
 
 
