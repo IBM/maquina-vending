@@ -1,6 +1,6 @@
 # Pre-work
 
-This section is broken up into the following steps:
+Esta sección se divide en la siguienntes partes:
 
 1. [Registrarsse en IBM Cloud](#1-sign-up-for-ibm-cloud)
 2. [Complete el formulario de registro y vaya a su correo electrónico para realizar la **confirmación** de su cuenta](#registro)
