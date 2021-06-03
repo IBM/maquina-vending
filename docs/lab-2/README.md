@@ -1,13 +1,12 @@
 # Parte 2: Importar el dialog-skill
 
-This section is comprised of the following steps:
-
+Tabla de contenidos
 1. [Paso 1](#1-step-1)
-1. [Paso 2](#2-step-2)
-1. [Paso 3](#3-step-3)
-1. [Paso 4](#4-step-4)
-1. [Paso 5](#5-step-5)
-1. [Paso 6](#6-step-6)
+2. [Paso 2](#2-step-2)
+3. [Paso 3](#3-step-3)
+4. [Paso 4](#4-step-4)
+5. [Paso 5](#5-step-5)
+6. [Paso 6](#6-step-6)
 
 
 ## Paso 1: Seleccione Add and action or dialog skill

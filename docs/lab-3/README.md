@@ -1,10 +1,9 @@
 # Parte 3: Iniciar el chatbot y obtener el código para la vending-machine
 
-This section is comprised of the following steps:
-
+Tabla de contenidos
 1. [Paso 1](#1-step-1)
-1. [Paso 2](#2-step-2)
-1. [Paso 3](#3-step-3)
+2. [Paso 2](#2-step-2)
+3. [Paso 3](#3-step-3)
 
 
 ## Paso 1: Clique en Preview
