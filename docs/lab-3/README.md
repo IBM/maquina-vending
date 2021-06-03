@@ -9,11 +9,11 @@ Tabla de contenidos
 ## Paso 1: Clique en Preview
 
 
-<a name="1-step-2"></a>
+<a name="2-step-2"></a>
 ## Paso 2: SAhora ya puede utilizar el asistente
 
 
-<a name="1-step-3"></a>
+<a name="3-step-3"></a>
 ## Paso 3: Solicite su código para la vending-machine
 
 
