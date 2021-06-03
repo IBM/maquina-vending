@@ -1,15 +1,15 @@
 # Parte 1: Crear una instancia del servicio Watson Assistant Service en IBM Cloud
 
 Tabla de contenidos
-1. [Paso 1](#1-step-1)
-2. [Paso 2](#2-step-2)
-3. [Paso 3](#3-step-3)
-4. [Paso 4](#4-step-4)
-5. [Paso 5](#5-step-5)
-6. [Paso 6](#6-step-6)
-7. [Paso 7](#7-step-7)
+1. [Paso 1:](#1-step-1)
+2. [Paso 2:](#2-step-2)
+3. [Paso 3:](#3-step-3)
+4. [Paso 4:](#4-step-4)
+5. [Paso 5:](#5-step-5)
+6. [Paso 6:](#6-step-6)
+7. [Paso 7:](#7-step-7)
 
-
+<a name="1-step-1"></a>
 ## Paso 1: Hacer login en la consola de IBM Cloud
 
 Vaya al siguiente enlace https://cloud.ibm.com/login y registrese con sus credenciales.
