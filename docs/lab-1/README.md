@@ -4,44 +4,54 @@ Description goes here.
 
 This section is comprised of the following steps:
 
-1. [Step 1](#1-step-1)
+1. [Accede a la consola de IBM Cloud](#1-step-1)
+2. [Abre el catálogo de servicios](#2-step-2)
+3. [Modifica el nombre del servicio](#3-step-3)
+4. [Crea el servicio](#4-step-4)
+5. [Lanza Watson Assistant](#5-step-5)
+6. [Crea tu nuevo asistente](#6-step-6)
 
 
+<a name="1-step-1"></a>
+## Paso 1: Accede a la consola de IBM Cloud
 
-## 1. Step 1
-
-Hacer login en la consola de IBM Cloud
-Vaya al siguiente enlace https://cloud.ibm.com/login y registrese con sus credenciales.
-
-
+Ve al siguiente enlace https://cloud.ibm.com/login y accede con tus credenciales.
 
 
 <a name="2-step-2"></a>
-## Paso 2: Abra el catálogo de servicios
+## Paso 2: Abre el catálogo de servicios
 
-Use al siguiente link https://cloud.ibm.com/catalog/services/watson-assistant para acceder al servicio de Watson Assistant.
+Usa el siguiente link https://cloud.ibm.com/catalog/services/watson-assistant para acceder al servicio de Watson Assistant.
 
-Una vez dentro selecione la opción Lite como se muestra en la siguiente figura:
+Una vez dentro, seleciona la opción "Lite" como se muestra en la siguiente figura:
 
 ![Watson](../images/WatsonAssistant.png)
 
 <a name="3-step-3"></a>
-## Paso 3: Cambie el nombre del servicio a vending-machine
+## Paso 3: Modifica el nombre por defecto del servicio 
+
+Cambia el nombre del servicio a "vending-machine", lo demás déjalo como está
 
 ![NameWatson](../images/nombreWatson.png)
 
 <a name="4-step-4"></a>
-## Paso 4: Pulse crear
+## Paso 4: Crea el servicio 
+
+Presiona Crear
 
 ![CreateWatson](../images/crearWatson.png)
 
 <a name="5-step-5"></a>
-## Paso 5: Presione Launch Watson Assistant
+## Paso 5: Lanza Watson Assitant 
+
+Presiona Launch Watson Assistant
 
 ![LaunchWatson](../images/launchWatson.png)
 
 <a name="6-step-6"></a>
-## Paso 6: Acceda a asistentes y presione Create assistant
+## Paso 6: Crea tu nuevo asistente virtual
+
+Accede a asistentes y presiona Create Assistant
 
 ![CrearAsistente](../images/crearAsistente.png)
 
