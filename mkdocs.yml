@@ -14,13 +14,13 @@ nav:
   - Welcome:
     - About the workshop: README.md
   - Workshop:
-    - Lab 0. Pre-work: pre-work/README.md
-    - Lab 1. Some Title: lab-1/README.md
+    - Lab 0. Pre-work: docs/pre-work/README.md
+    - Lab 1. Some Title: docs/lab-1/README.md
   - References:
-    - Additional Resources: resources/RESOURCES.md
-    - Contributors: resources/CONTRIBUTORS.md
-    - MkDocs Cheatsheet: resources/MKDOCS.md
-    - Admin Guide: resources/ADMIN.md
+    - Additional Resources: docs/resources/RESOURCES.md
+    - Contributors: docs/resources/CONTRIBUTORS.md
+    - MkDocs Cheatsheet: docs/resources/MKDOCS.md
+    - Admin Guide: docs/resources/ADMIN.md
 
 ## DO NOT CHANGE BELOW THIS LINE
 
