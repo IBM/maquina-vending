@@ -14,7 +14,7 @@ nav:
   - Welcome:
     - About the workshop: README.md
   - Workshop:
-    - Lab 0. Pre-work: docs/pre-work/README.md
+    - Lab 0. Pre-work: pre-work/README.md
     - Lab 1. Some Title: docs/lab-1/README.md
   - References:
     - Additional Resources: docs/resources/RESOURCES.md
