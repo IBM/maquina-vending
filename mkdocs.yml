@@ -1,5 +1,5 @@
 # Project information
-site_name: Intrucciones maquina expendedora
+site_name: Instrucciones máquina expendedora
 site_url: https://ibm.github.io/maquina-vending/
 site_author: IBM Developer
 
@@ -11,11 +11,14 @@ edit_uri: edit/master/docs
 
 # Navigation
 nav:
-  - Welcome:
-    - About the workshop: README.md
+  - Bienvenido:
+    - Sobre el workshop: README.md
   - Workshop:
     - Lab 0. Pre-work: pre-work/README.md
-    - Lab 1. Some Title: lab-1/README.md
+    - Lab 1. Crea una instacia del servicio Watson Assitant: lab-1/README.md
+    - Lab 2. Importa el dialog-skill: lab-2/README.md
+    - Lab 3. Configura el diálogo: lab-3/README.md
+    - Lab 4. Inicia el chatbot y obtén tu código para la máquina expendedora: lab-1/README.md
   - References:
     - Additional Resources: resources/RESOURCES.md
     - Contributors: resources/CONTRIBUTORS.md
