@@ -12,12 +12,13 @@ En este workshop se muestran las instrucciones necesarias para utilizar IBM Wats
 La introducción al workshop está dividida en las siguientes secciones:
 
 * [Agenda](./#agenda)
-* [Arquitectura] (./arquitectura)
+* [Arquitectura] (./#arquitectura)
 * [Tiempo Estimado y nivel](./#tiempo)
 * [Objetivos](./#objetivos)
 * [Compatibilidad](./#compatibility)
 * [Creditos](./#credits)
 
+<a name="agenda"></a>
 ## Agenda
 
 |  |  |
@@ -36,19 +37,16 @@ Usamos IBM Watson Assistant y una API externa para obtener el código de acceso 
 <a name="tiempo"></a>
 ## Tiempo Estimado y nivel
 
-|  |  |
-| :--- | :--- |
-| [Lab 0: Pre-work](pre-work/README.md) | Pre-work for the project |
-| [Lab 1: Some Title](lab-1/README.md) | Exercise to do the thing |
+Este workshop te llevará unos 30-40' y no necesitas conocimientos previos, sólo ganas de conocer y divertirte!
 
 <a name="objetivos"></a>
 ## Objetivos
 
-Después de completar este workshop, comprenderá los siguientes temas:
-* Crear una instancia de IBM Watson Assistant en IBM Cloud
-* Agregar una habilidad de diálogo personalizada a IBM Watson Assistant
-* Utilizar un chat-bot para obtener tu código de acceso a la máquina expendedora
-* Divertirte!
+Después de completar este workshop, serás capaz de:
+
+* [Crear una instancia de IBM Watson Assistant en IBM Cloud]()
+* [Agregar una habilidad de diálogo personalizada a IBM Watson Assistant]()
+* [Utilizar el chat-bot para obtener tu código de acceso a la máquina expendedora]()
 
 
 <a name="compatibility"></a>
