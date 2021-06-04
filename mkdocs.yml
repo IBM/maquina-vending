@@ -11,12 +11,12 @@ edit_uri: edit/master/docs
 # Navigation
 nav:
   - Welcome:
-    - Acerca del workshop: docs/README.md
+    - Acerca del workshop: README.md
   - Workshop:
-    - Trabajo previo: docs/pre-work/README.md
-    - Parte 1: Crear una instancia del servicio Watson Assistant Service en IBM Cloud: docs/lab-1/README.md
-    - Parte 2: Importar el dialog-skill: docs/lab-2/README.md
-    - Parte 3: Iniciar el chatbot y obtener el código para la vending-machine: docs/lab-3/README.md
+    - Trabajo previo: pre-work/README.md
+    - Parte 1: Crear una instancia del servicio Watson Assistant Service en IBM Cloud: lab-1/README.md
+    - Parte 2: Importar el dialog-skill: lab-2/README.md
+    - Parte 3: Iniciar el chatbot y obtener el código para la vending-machine: lab-3/README.md
   - References:
     - Additional Resources: resources/RESOURCES.md
     - Contributors: resources/CONTRIBUTORS.md
