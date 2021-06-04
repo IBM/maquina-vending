@@ -7,7 +7,7 @@ site_author: IBM Developer
 repo_name: maquina-vending
 repo_url: https://github.com/IBM/maquina-vending
 edit_uri: edit/master/docs
-docs_dir: docs
+
 
 # Navigation
 nav:
