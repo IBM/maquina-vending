@@ -1,12 +1,13 @@
 # Project information
-site_name: Workshop Setup
+site_name: Intrucciones maquina expendedora
 site_url: https://ibm.github.io/maquina-vending/
 site_author: IBM Developer
 
 # Repository
-repo_name: workshop-setup
-repo_url: https://github.com/remkohdev/workshop-setup
+repo_name: maquina-vending
+repo_url: https://github.com/IBM/maquina-vending
 edit_uri: edit/master/docs
+docs_dir: docs
 
 # Navigation
 nav:
