@@ -1,12 +1,12 @@
-# Parte 3: Iniciar el chatbot y obtener el código para la vending-machine
+# Parte 3: Configurar el dialogo para que el asistente funcione correctamente
 
-## Paso 1: Clique en Preview
-
-
-## Paso 2: SAhora ya puede utilizar el asistente
+## Paso 1: 
 
 
-## Paso 3: Solicite su código para la vending-machine
+## Paso 2: 
+
+
+## Paso 3: 
 
 
 
