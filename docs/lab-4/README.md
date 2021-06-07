@@ -10,7 +10,7 @@
 
 ## Paso 3: Solicita tu código para la vending-machine
 
-
+![DarCódigo](../images/darCodigo.png)
 
 
 
