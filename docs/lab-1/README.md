@@ -7,7 +7,7 @@ Ve al siguiente enlace [https://cloud.ibm.com/login](https://cloud.ibm.com/login
 
 ## Paso 2: Abre el catálogo de servicios
 
-Usa el siguiente link https://cloud.ibm.com/catalog/services/watson-assistant para acceder al servicio de Watson Assistant.
+Usa el siguiente link [https://cloud.ibm.com/catalog/services/watson-assistant](https://cloud.ibm.com/catalog/services/watson-assistant) para acceder al servicio de Watson Assistant.
 
 Una vez dentro, seleciona la opción "Lite" como se muestra en la siguiente figura:
 
