@@ -7,18 +7,7 @@ En este workshop se muestran las instrucciones necesarias para utilizar IBM Wats
 
 ![Maquina](images/maquina.png)
 
-### Sobre el workshop
 
-La introducción al workshop está dividida en las siguientes secciones:
-
-* [Agenda](./#agenda)
-* [Arquitectura] (./#arquitectura)
-* [Tiempo Estimado y nivel](./#tiempo)
-* [Objetivos](./#objetivos)
-* [Compatibilidad](./#compatibility)
-* [Creditos](./#credits)
-
-<a name="agenda"></a>
 ## Agenda
 
 |  |  |
@@ -26,20 +15,18 @@ La introducción al workshop está dividida en las siguientes secciones:
 | [Lab 0: Pre-work](pre-work/README.md) | Pre-work for the project |
 | [Lab 1: Some Title](lab-1/README.md) | Exercise to do the thing |
 
-<a name="arquitectura"></a>
+
 ## Arquitectura
 
 Usamos IBM Watson Assistant y una API externa para obtener el código de acceso para la máquina expendedora, como se muestra en la imagen a continuación.
 
 ![Arquitectura](images/arquitectura.png)
 
-
-<a name="tiempo"></a>
 ## Tiempo Estimado y nivel
 
 Este workshop te llevará unos 30-40' y no necesitas conocimientos previos, sólo ganas de conocer y divertirte!
 
-<a name="objetivos"></a>
+
 ## Objetivos
 
 Después de completar este workshop, serás capaz de:
@@ -49,14 +36,12 @@ Después de completar este workshop, serás capaz de:
 * [Utilizar el chat-bot para obtener tu código de acceso a la máquina expendedora]()
 
 
-<a name="compatibility"></a>
 ## Compatibilidad
 
 Estas instrucciones se han probado en la siguiente plataforma:
 
 * **IBM Watson Assistant Service (Lite)** en IBM Cloud
 
-<a name="credits"></a>
 ## Créditos
 
 * [Luis Reyes Oliva]()
