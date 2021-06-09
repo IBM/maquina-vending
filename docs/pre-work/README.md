@@ -3,7 +3,7 @@
 
 ## Paso 1: Registrarse en IBM CLoud
 
-Accede a la [página de Registro](http://ibm.biz/code-zone) para crear tu cuenta en IBM Cloud.
+Accede a la [página de Registro](http://ibm.biz/code-zone) para crear tu cuenta en IBM Cloud
 
 ![Registro](../images/registro.png)
 
