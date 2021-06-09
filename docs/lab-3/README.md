@@ -1,22 +1,27 @@
-# Parte 3: Iniciar el chatbot y obtener el código para la vending-machine
+# Parte 3: Configurar el dialogo para que el asistente funcione correctamente
 
-Tabla de contenidos
-1. [Paso 1](#1-step-1)
-2. [Paso 2](#2-step-2)
-3. [Paso 3](#3-step-3)
+## Paso 1: Hacer click en el propio diálogo
 
-<a name="1-step-1"></a>
-## Paso 1: Clique en Preview
+![Diálogo](../images/dialogo.png)
 
 
-<a name="2-step-2"></a>
-## Paso 2: SAhora ya puede utilizar el asistente
+## Paso 2: Acceder a los nodos de dialogo y pinchar en el nodo llamado Codigo de acceso
+
+![NodoCodigo](../images/nodoCodigo.png)
 
 
-<a name="3-step-3"></a>
-## Paso 3: Solicite su código para la vending-machine
+## Paso 3: Acceder a Customize para así activar las llamadas al webhoook
+
+![Customize](../images/customize.png)
+
+## Paso 4: Una vez dentro, activar las llamadas al webhoook y aplicar los cambios
 
 
+![ActivarWebhook](../images/activarWebhook.png)
+
+Activando esta opción se va a permitir enviar peticiones HTTP POST a la URL del webhook que se define en la parte de opciones. Esta URL corresponde a la URL pública de la función, la cuál va a leer de una base de datos Cloudant el código que devuelve el chat-bot cuando se solicita.
+
+![Opciones](../images/opciones.png)
 
 
 
