@@ -35,9 +35,9 @@ Este workshop te llevará unos 30-40' y no necesitas conocimientos previos, sól
 
 Después de completar este workshop, serás capaz de:
 
-* [Crear una instancia de IBM Watson Assistant en IBM Cloud]()
-* [Agregar una habilidad de diálogo personalizada a IBM Watson Assistant]()
-* [Utilizar el chat-bot para obtener tu código de acceso a la máquina expendedora]()
+* Crear una instancia de IBM Watson Assistant en IBM Cloud
+* Agregar una habilidad de diálogo personalizada a IBM Watson Assistant
+* Utilizar el chat-bot para obtener tu código de acceso a la máquina expendedora
 
 
 ## Compatibilidad
