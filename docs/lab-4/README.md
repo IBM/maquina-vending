@@ -1,6 +1,6 @@
-# Parte 4: Iniciar el chatbot y obtener el código para la vending-machine
+# Parte 4: Inicia el chatbot y obtén el código para la vending-machine
 
-## Paso 1: Clique en Preview
+## Paso 1: Haz click en Preview
 
 ![Preview](../images/preview.png)
 
@@ -12,7 +12,10 @@
 
 ![DarCódigo](../images/darCodigo.png)
 
+## Paso 4: ¡Enhorabuena! ¡Has finalizado el workshop! 
 
+Ya puedes usar tu código para canjearlo en la máquina de vending.
+Accede ya a la [vending-machine]() para elegir tu regalo.
 
-
+¡Que lo disfrutes!
 
