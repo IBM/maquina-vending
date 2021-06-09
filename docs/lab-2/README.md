@@ -1,15 +1,12 @@
 # Parte 2: Importar el dialog-skill
 
-
 ## Paso 1: Selecciona Add and action or dialog skill
 
 ![AñadirDialogo](../images/añadirDialogo.png)
 
-
 ## Paso 2: Selecciona Upload skill
 
 ![UploadSkill](../images/uploadSkill.png)
-
 
 ## Paso 3: Abre el siguiente enlace en su navegador
 
@@ -26,5 +23,3 @@ Accede al este [repo](https://github.com/luisreyesoliva/skill-maquina-vending) d
 ## Paso 6: Presione Import
 
 ![Import](../images/import.png)
-
-

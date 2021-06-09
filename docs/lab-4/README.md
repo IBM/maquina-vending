@@ -12,10 +12,9 @@
 
 ![DarCódigo](../images/darCodigo.png)
 
-## Paso 4: ¡Enhorabuena! ¡Has finalizado el workshop! 
+## Paso 4: ¡Enhorabuena! ¡Has finalizado el workshop
 
 Ya puedes usar tu código para canjearlo en la máquina de vending.
-Accede ya a la [vending-machine]() para elegir tu regalo.
+Accede ya a la [vending-machine](https://ibm.github.io/maquina-vending) para elegir tu regalo.
 
 ¡Que lo disfrutes!
-
