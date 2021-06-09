@@ -27,7 +27,6 @@ Presiona **Crear** y espera unos segundos a que se aprovisione el servicio
 
 ![CreateWatson](../images/crearWatson.png)
 
-<a name="5-step-5"></a>
 ## Paso 5: Lanza Watson Assitant 
 
 Presiona Launch Watson Assistant
