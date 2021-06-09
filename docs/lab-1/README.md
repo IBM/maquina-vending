@@ -23,7 +23,7 @@ Cambia el nombre del servicio a "vending-machine", lo demás déjalo como está
 
 ## Paso 4: Crea el servicio 
 
-Presiona Crear
+Presiona **Crear** y espera unos segundos a que se aprovisione el servicio
 
 ![CreateWatson](../images/crearWatson.png)
 
@@ -42,6 +42,6 @@ Accede a asistentes y presiona Create Assistant
 ![CrearAsistente](../images/crearAsistente.png)
 
 
-## Paso 7: Nombre al Asistente vending-assistant y presione Create assistant
+## Paso 7: Nombra al Asistente vending-assistant y presiona Create assistant
 
 ![NombreAsistente](../images/nombreAsistente.png)

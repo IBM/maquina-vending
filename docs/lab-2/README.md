@@ -13,9 +13,11 @@
 
 ## Paso 3: Abre el siguiente enlace en su navegador
 
+Accede al este [repo](https://github.com/luisreyesoliva/skill-maquina-vending) de Github para descargarte el skill.
 
-## Paso 4: Selecciona Code, descarga el zip en Download ZIP y extrae los ficheros del zip en su ordenador
+## Paso 4: Selecciona Code, descarga el zip en Download ZIP y extrae los ficheros del zip en tu ordenador
 
+![DescargarSkill](../images/descargaSkill.png)
 
 ## Paso 5: Arrastre y suelte el archivo skill-developer-vending-machine-actual-version.json para la importación
 
