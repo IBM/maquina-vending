@@ -12,8 +12,12 @@ En este workshop se muestran las instrucciones necesarias para utilizar IBM Wats
 
 |  |  |
 | :--- | :--- |
-| [Lab 0: Pre-work](pre-work/README.md) | Pre-work for the project |
-| [Lab 1: Some Title](lab-1/README.md) | Exercise to do the thing |
+| [Lab 0: Pre-work](pre-work/README.md) | Pre-work para el proyecto |
+| [Lab 1: Crea una instacia del servicio Watson Assitant](lab-1/README.md) | Creación del asistente |
+| [Lab 2: Importa el dialog-skill](lab-2/README.md) | Configurar el chat-bot con sus nodos de diálogo |
+| [Lab 3: Configura el diálogo para que el asistente funcione correctamente](lab-3/README.md) | Completar los diálogos del chatbot |
+| [Lab 4: Inicia el chatbot y obtén tu código para la máquina expendedora](lab-4/README.md) | Pedir el código para la máquina expendedora|
+
 
 
 ## Arquitectura
