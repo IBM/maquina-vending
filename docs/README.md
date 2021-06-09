@@ -18,8 +18,6 @@ En este workshop se muestran las instrucciones necesarias para utilizar IBM Wats
 | [Lab 3: Configura el diálogo para que el asistente funcione correctamente](lab-3/README.md) | Completar los diálogos del chatbot |
 | [Lab 4: Inicia el chatbot y obtén tu código para la máquina expendedora](lab-4/README.md) | Pedir el código para la máquina expendedora |
 
-
-
 ## Arquitectura
 
 Usamos IBM Watson Assistant y una API externa para obtener el código de acceso para la máquina expendedora, como se muestra en la imagen a continuación.
