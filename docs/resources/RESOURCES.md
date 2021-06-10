@@ -1,4 +1,4 @@
-# Additional resources
+# Recursos de interés
 
 ## IBM Developer
 
