@@ -3,12 +3,15 @@
 ## Paso 1: Vuelve al asistente y haz click en Preview
 
 Vuelve al menú y haz click en el icono de asistentes
+
 ![Asistentes](../images/seleccionaAsistente.png)
 
 Ahora selecciona el asistente que creaste anteriormente
+
 ![VendingMachine](../images/seleccionaVending.png)
 
 Haz click en Preview para lanzar el chatbot
+
 ![Preview](../images/preview.png)
 
 ## Paso 2: Ahora ya puedes utilizar el asistente
