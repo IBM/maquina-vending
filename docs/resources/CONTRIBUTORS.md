@@ -1,14 +1,12 @@
 # Contributors
 
-## **Remko de Knikker**
+## **Luis Reyes Oliva**
 
-* Github: [remkohdev](https://github.com/remkohdev)
-* Twitter: [@remkohdev](https://twitter.com/@remkohdev)
-* LinkedIn: [remkohdev](https://linkedin.com/in/remkohdev)
-* Medium: [@remkohdev](https://mediu.com/@remkohdev)
+* Github: [luisreyesoliva](https://github.com/luisreyesoliva)
+* Twitter: [@lureyit](https://twitter.com/@lireyit)
+* LinkedIn: [luisreyesoliva](https://www.linkedin.com/in/luisreyesoliva/)
 
-## **Steve Martinelli**
+## **Marcos Ortega**
 
-* Github: [stevemar](https://github.com/stevemar)
-* Twitter: [@stevebot](https://twitter.com/@stevebot)
-* LinkedIn: [stevemar](https://linkedin.com/in/stevemar)
+* Github: [mosdso](https://github.com/mosdso)
+* LinkedIn: [marcos-ortega-sancho](https://www.linkedin.com/in/marcos-ortega-sancho/)
