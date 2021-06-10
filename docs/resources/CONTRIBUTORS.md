@@ -1,9 +1,9 @@
-# Contributors
+# Autores
 
 ## **Luis Reyes Oliva**
 
 * Github: [luisreyesoliva](https://github.com/luisreyesoliva)
-* Twitter: [@lureyit](https://twitter.com/@lireyit)
+* Twitter: [@lureyit](https://twitter.com/@lureyit)
 * LinkedIn: [luisreyesoliva](https://www.linkedin.com/in/luisreyesoliva/)
 
 ## **Marcos Ortega**

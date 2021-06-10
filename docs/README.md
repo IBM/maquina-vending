@@ -41,10 +41,8 @@ Estas instrucciones se han probado en la siguiente plataforma:
 
 * **IBM Watson Assistant Service (Lite)** en IBM Cloud
 
-## Créditos
+## Autores
 
-* [Luis Reyes Oliva](https://github.com/luisreyesoliva)
+* [Luis Reyes](https://github.com/luisreyesoliva)
 * [Jorge Mosquera](https://github.com)
-* [Marcos Ortega Sancho](https://github.com/mosdso)
-
-Prueba1
+* [Marcos Ortega](https://github.com/mosdso)
