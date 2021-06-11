@@ -19,7 +19,10 @@ En este workshop se muestran las instrucciones necesarias para utilizar IBM Wats
 
 ## Arquitectura
 
-Usamos IBM Watson Assistant y una API externa para obtener el código de acceso para la máquina expendedora, como se muestra en la imagen a continuación.
+El Bot que vas a configurar y usar está basado en la tecnología de Watson Assistant. El asistente recibirá tu solicitud de código y llamará a una función serverless, desplegada en IBM Functions. 
+Configuraremos el chatbot para invocar a la función a través de una URL de webhook. 
+La función, al ejecutarse, accede a una base de datos (Cloudant) que tenemos desplegada y que contiene los códigos a devolver. 
+Puedes ver la arquitectura a continuación.
 
 ![Arquitectura](images/arquitectura.png)
 
