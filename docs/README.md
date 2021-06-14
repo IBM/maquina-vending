@@ -19,8 +19,10 @@ En este workshop se muestran las instrucciones necesarias para utilizar IBM Wats
 
 ## Arquitectura
 
-El Bot que vas a configurar y usar está basado en la tecnología de Watson Assistant. El asistente recibirá tu solicitud de código y llamará a una función serverless, desplegada en IBM Functions. 
+El Bot que vas a configurar y usar está basado en la tecnología de Watson Assistant. El asistente recibirá tu solicitud de código y llamará a una función serverless, desplegada en IBM Functions.
+
 Configuraremos el chatbot para invocar a la función a través de una URL de webhook. 
+
 La función, al ejecutarse, accede a una base de datos (Cloudant) que tenemos desplegada y que contiene los códigos a devolver. 
 Puedes ver la arquitectura a continuación.
 
