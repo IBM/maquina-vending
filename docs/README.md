@@ -43,6 +43,6 @@ Estas instrucciones se han probado en la siguiente plataforma:
 
 ## Autores
 
-* [Luis Reyes](https://github.com/luisreyesoliva)
-* [Jorge Mosquera](https://github.com)
-* [Marcos Ortega](https://github.com/mosdso)
+* [Luis Reyes](https://www.linkedin.com/in/luisreyesoliva/)
+* [Jorge Mosquera](https://www.linkedin.com/in/jorgemosquera/)
+* [Marcos Ortega](https://www.linkedin.com/in/marcos-ortega-sancho/)
